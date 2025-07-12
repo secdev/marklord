@@ -57,5 +57,5 @@ INFO:MarkLord:Watermarking [only for ACME company 2025-12-04]
 INFO:MarkLord:Result saved to [/home/specimen/idcard-wm.jpg] (60.1 KB)
 ```
 
-![watermarked image](doc/assets/idcard_wm.jpg)
+![watermarked image](https://github.com/secdev/marklord/raw/main/doc/assets/idcard_wm.jpg)
 
