@@ -118,7 +118,7 @@ def main(args=None):
     parser.add_argument("--separator", "-s", default="   ")
     parser.add_argument("--no-noise", action="store_true", default=False)
     parser.add_argument("--color", "-c", type=color_type, help="RGBA color (hexa or 4 comma separated decimal numbers from 0 to 255)")
-    parser.add_argument("--alpha", "-A", type=percent_type, help="transparency coefficient between 0% and 100%", default=75)
+    parser.add_argument("--alpha", "-A", type=percent_type, help="transparency coefficient between 0%% and 100%%", default=75)
     parser.add_argument("--quiet", "-q", action="count", default=0)
     parser.add_argument("input", type=argparse.FileType('rb'))
     parser.add_argument("text", nargs="+")
