@@ -42,11 +42,10 @@ options:
   --interlining, -I INTERLINING
   --separator, -s SEPARATOR
   --no-noise
-  --color, -c COLOR     RGBA color as 4 comma separated decimal numbers from 0 to 255
-  --alpha, -A ALPHA     transparency coefficient between 0 and 255
+  --color, -c COLOR     RGBA color (hexa or 4 comma separated decimal numbers from 0 to 255)
+  --alpha, -A ALPHA     transparency coefficient between 0% and 100%
   --quiet, -q
 ```
-
 
 ## Examples
 
